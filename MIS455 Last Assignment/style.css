@@ -1,0 +1,71 @@
+
+.countrydetails img{
+    height: 45px;
+}
+body{
+    background-image: url(virus-g2019984c3_1920.jpg);
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+/*
+.box{
+    height: 100vh;
+    width:100%;
+    background-image: url(brian-mcgowan-gkpszAElZf8-unsplash.jpg);
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+    
+    }
+*/
+
+.default-corona-summary h1{
+    font-size: 72px;
+}
+
+.default-corona-summary h2{
+    font-size: 52px;
+}
+
+.corona-info-of-a-country h2{
+    font-size: 52px;
+}
+
+.confirmed-cases h2{
+    font-size: 52px;
+}
+.buttondiv button{
+    background-color: red;
+    color: white;
+    border: none;
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 10px;
+    margin-left: 15px;
+    
+}
+.deaths-cases h2{
+    font-size: 52px;
+}
+.footer {
+/*   position: fixed;*/
+/*
+   left: 0;
+   bottom: 0;
+*/
+   width: 100%;
+   background-color: black;
+   color: white;
+    padding: 50px;
+   text-align: center;
+}
+/*
+.default-corona-summary button{
+    background-color: red;
+    color:white;
+    border-radius: 15px;
+}*/
